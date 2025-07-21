@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Olá, eu sou a Yara.
+# Tenho estudado e aplicado tecnologias como Python, Node.js, TypeScript, ExpressJS, MySQL, MongoDB e Prisma, desenvolvendo projetos back-end que reforçam minha base técnica e ampliam minha capacidade de resolver problemas do mundo real.
 <!--
 **yaram-dev/yaram-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
